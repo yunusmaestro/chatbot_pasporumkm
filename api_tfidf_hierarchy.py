@@ -2,7 +2,6 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 
 app = Flask(__name__)
-app.config['SERVER_NAME'] = 'yunus.com:19065'
 CORS(app)
 
 @app.route("/ask_chatbot", methods=['GET', 'POST'])
