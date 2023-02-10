@@ -1,10 +1,8 @@
 from flask import Flask, request, jsonify
-from flask_https import HTTPS
 from flask_cors import CORS
 
 app = Flask(__name__)
 CORS(app)
-https = HTTPS(app)
 
 @app.route("/ask_chatbot", methods=['GET', 'POST'])
 def print_sentences():
@@ -100,6 +98,6 @@ def print_sentences():
     return jsonify(json_data), 404
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=5000, debug=True, cert_path="/etc/letsencrypt/live/pasporumkm.com/cert.pem", key_path="/etc/letsencrypt/live/pasporumkm.com/key.pem")
+    app.run(host='0.0.0.0', port=5000, debug=True, ssl_context=('cert.pem', 'key.pem'))
     # app.run(host='0.0.0.0', port=5000, debug=True)
     # app.run(debug=True)
