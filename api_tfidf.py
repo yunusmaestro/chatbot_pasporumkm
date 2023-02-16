@@ -59,7 +59,7 @@ def print_sentences():
         # 4. ======================================================================================
 
         import pandas as pd
-        df = pd.read_pickle("dataset/intents_asli.pkl")
+        df = pd.read_pickle("dataset/list_jawaban.pkl")
 
         query = "intents == '"+intent_predict+"'"
         df.query(query, inplace = True)
