@@ -1,0 +1,268 @@
+Timestamp,Username,Question,Intent,Response
+2023-02-16 08:28:20,yunusmarsetio,Nama dari SJPH ini saya berikan nama apa ya?,SJPH_Nama,"SJPH akan diperbarui setiap 4 tahun. Untuk memudahkan, dapat diberikan nama seperti ""SJPH Tahun 2022"""
+2023-02-16 08:28:40,yunusmarsetio,NIB ini apa ya?,SJPH_InfoNIB,"Nomor Induk Berusaha (NIB) adalah identitas pelaku usaha yang diterbitkan oleh lembaga OSS. Setelah memiliki NIB, maka pelaku usaha bisa mengajukan Izin Usaha dan Izin Komersial atau Operasional sesuai dengan bidang usahanya masing-masing."
+2023-02-16 08:29:19,yunusmarsetio,Cara saya bisa mendapatkan NIB?,SJPH_CariNIB,Nomor Induk Berusaha (NIB) bisa didapatkan oleh pelaku usaha yang diterbitkan oleh lembaga OSS melalui website https://oss.go.id/.
+2023-02-16 08:29:44,yunusmarsetio,Skala usaha saya ini bisa dinilai dari apa?,PelakuUsaha_Jenis,"Usaha mikro memiliki omzet tahunan maksimal Rp300 juta.
+Usaha kecil memiliki omzet antara Rp300 juta sampai Rp2,5 miliar.
+Usaha menengah memiliki pendapatan usaha Rp2,5 miliar sampai Rp50 miliar."
+2023-02-16 08:30:23,yunusmarsetio,Penyelia halal maksudnya apa?,PenyeliaHalal_Info,"Penyelia halal adalah orang yang memiliki peran penting dalam menjalanan proses sertifikasi produk halal di perusahaan.
+Ada sejumlah tugas penyelia halal, yaitu:
+Mengawasi Proses Produk Halal (PPH) di perusahaan
+Menentukan tindakan perbaikan jika ada masalah dan pencegahan masalah terkait produk halal
+Mengoordinasikan PPH di perusahaan
+Mendampingi Auditor Halal pada saat pemeriksaan kehalalan produk di perusahaan"
+2023-02-16 08:32:48,yunusmarsetio,Dimana saya bisa mendapatkan penyelia halal?,PenyeliaHalal_Cari,"Sejumlah persyaratan pengajuan penyelia halal di perusahaan, yaitu:
+Fotokopi KTP penyelia halal
+Daftar riwayat hidup penyelia halal
+Fotokopi sertifikat pelatihan dan kompetensi yang telah dilegalisasi oleh pihak yang berwenang.
+Fotokopi keputusan untuk menetapkan seorang penyelia halal di perusahaan. Salinan ini harus telah dilegalisasi."
+2023-02-16 08:33:19,yunusmarsetio,Apakah UMKM juga bisa kalau mau menjadi penyelia halal?,PenyeliaHalal_Menjadi,pelaku usaha bisa menjadi penyelia halal selama memenuhi persyaratan sebagai penyelia halal
+2023-02-16 08:33:53,yunusmarsetio,"Kalau begitu, untuk syaratnya penyelia halal apa saja?",PenyeliaHalal_Syarat,"Syarat penyelia halal adalah:
+Memiliki sertifikat penyelia halal yang bisa didapatkan setelah mengikuti sertifikasi kompetensi penyelia halal.
+Beragama Islam
+Memiliki wawasan yang luas tentang kehalalan produk berdasarkan syariah Islam"""
+2023-02-16 08:34:13,yunusmarsetio,Sertifikasi penyelia halal itu apa ya?,PenyeliaHalal_Info,"Penyelia halal adalah orang yang memiliki peran penting dalam menjalanan proses sertifikasi produk halal di perusahaan.
+Ada sejumlah tugas penyelia halal, yaitu:
+Mengawasi Proses Produk Halal (PPH) di perusahaan
+Menentukan tindakan perbaikan jika ada masalah dan pencegahan masalah terkait produk halal
+Mengoordinasikan PPH di perusahaan
+Mendampingi Auditor Halal pada saat pemeriksaan kehalalan produk di perusahaan"
+2023-02-16 08:34:46,yunusmarsetio,Pelatihan dari penyelia halal apakah ada?,PenyeliaHalal_Syarat,"Syarat penyelia halal adalah:
+Memiliki sertifikat penyelia halal yang bisa didapatkan setelah mengikuti sertifikasi kompetensi penyelia halal.
+Beragama Islam
+Memiliki wawasan yang luas tentang kehalalan produk berdasarkan syariah Islam"""
+2023-02-16 08:35:09,yunusmarsetio,Kalau semisal penyelia halal mau saya ganti bagaimana?,PenyeliaHalal_Ganti,Pergantian penyelia halal wajib dilaporkan selambat-lambatnya 5 hari kerja setelah digantikan
+2023-02-16 08:36:26,yunusmarsetio,Pelatihan penyelia halal untuk umkm bisa didaftarkan dimana ya?,PenyeliaHalal_Cari,"Sejumlah persyaratan pengajuan penyelia halal di perusahaan, yaitu:
+Fotokopi KTP penyelia halal
+Daftar riwayat hidup penyelia halal
+Fotokopi sertifikat pelatihan dan kompetensi yang telah dilegalisasi oleh pihak yang berwenang.
+Fotokopi keputusan untuk menetapkan seorang penyelia halal di perusahaan. Salinan ini harus telah dilegalisasi."
+2023-02-16 08:37:04,yunusmarsetio,Apa bedanya Nama dengan Merk Produk?,Produk_Detail,"Nama Produk / Varian / Merek = Good Quality, Premium, Top, Super / Bakso Sapi Bakso Ayam / Eternal"
+2023-02-16 08:37:14,yunusmarsetio,Jenis Produk ini bisa saya tahu darimana?,Produk_Jenis,"Jenis Produk diisi berdasarkan Jenis Produk yang dijual. Misalnya Makanan Ringan, Kosmetik, dan lain sebagainya. untuk penggolongan produk bisa dilihat disini https://drive.google.com/file/d/15xVx6dOy1pFMPiZa24bTHMI9QYC4gnoo/view?usp=sharing"
+2023-02-16 08:37:29,yunusmarsetio,Perbedaan Daerah Pemasaran ini apa ya?,SJPH_DaerahPemasaran,Pemasaran daerah provinsi adalah ketika suatu usaha memasarkan produknya di suatu daerah provinsi saja dan tidak seluruh Indonesia
+2023-02-16 08:37:50,yunusmarsetio,Yang membedakan Daerah Pemasaran Nasional dan Provinsi apa?,SJPH_DaerahPemasaran,Pemasaran daerah provinsi adalah ketika suatu usaha memasarkan produknya di suatu daerah provinsi saja dan tidak seluruh Indonesia
+2023-02-16 08:39:14,yunusmarsetio,Sertifikat halal dari bahan saya ini dapatnya darimana ya?,Bahan_CariMasaBerlaku,Pencarian Sertifikat Halal dapat dilakukan melalui http://info.halal.go.id/cari/
+2023-02-16 08:40:04,yunusmarsetio,Ini maksudnya bahan penolong ini apa?,Bahan_Jenis,Maaf saya masih tidak yakin 13.51% dengan maksud anda dan mohon menggunakan bahasa Indonesia yang baku.
+2023-02-16 08:40:18,yunusmarsetio,Apa yang dimaksud dengan bahan penolong? dan juga bahan utama,Bahan_Jenis,"1. Bahan baku (raw material) dan bahan tambahan (additive)
+Merupakan bahan yang digunakan dalam pembuatan produk & menjadi bagian dari komposisi produk (ingredient)
+2. Bahan penolong (processing aid)
+Merupakan bahan yang digunakan untuk membantu produksi tetapi tidak menjadi bagian dari komposisi produk (ingredient). Contoh: pelarut, katalis, enzim, air pencucian, kuas kue, pemurni minyak"
+2023-02-16 08:41:00,yunusmarsetio,Kalau bahan yang mengandung najis ini contohnya apa ya?,Bahan_Najis,"1. Jilatan (air liur) anjing, babi dan turunannya.
+2. Bangkai, produk turunan hewani yang tidak diketahui status halalnya, darah, khamr, kotoran hewan, dll.
+3. Air kencing bayi laki-laki yang hanya minum ASI."
+2023-02-16 08:41:44,yunusmarsetio,Apakah benar semua bahan yang ingin didaftarkan wajib menggunakan sertifikat halal?,Bahan_TanpaSH,Maaf saya masih tidak yakin 24.62% dengan maksud anda dan mohon menggunakan bahasa Indonesia yang baku.
+2023-02-16 08:42:48,yunusmarsetio,Kalau bahan yang najis ini apakah benar ada tingkatannya?,Bahan_TingkatNajis,"1. Najis Berat
+Jilatan (air liur) anjing, babi dan turunannya.
+Disucikan dengan dibasuh 7x dengan air yang salah satunya dicampur tanah/bahan pembersih kimia.
+2. Najis Sedang
+Bangkai, produk turunan hewani yang tidak diketahui status halalnya, darah, khamr, kotoran hewan, dll.
+Disucikan dengan dicuci hingga hilang warna, bau dan rasa najisnya.
+3. Najis Ringan
+Air kencing bayi laki-laki yang hanya minum ASI.
+Disucikan dengan diperciki air atau dilap dengan lap basah."
+2023-02-16 08:43:25,yunusmarsetio,Denah Ruang Produksi yang standar bagaimana?,RuangProduksi_Info,"Merancang tempat produksi untuk memfasilitasi proses pembersihan dan pengawasan yang tepat, serta memastikan lokasi dan tempat proses produk halal tetap bersih dan higienis, bebas dari najis, hewan peliharaan, hewan liar, dan dari bahan tidak halal."
+2023-02-16 08:43:47,yunusmarsetio,Diagram Alir Proses Produksi ini bagaimana mengisinya?,PPH_Syarat,"Proses Produksi perlu memperhatikan:
+1. Proses produksi yang bersih dan bebas dari bahan haram, dengan hanya menggunakan bahan yang tercantum dalam Daftar Bahan Halal. 
+2. Diagram alir proses produksi dapat dilihat pada Lampiran 12. Diagram Alir Proses Produksi 
+3. Menyimpan bahan dan produk di tempat yang bersih dan menjaganya supaya terhindar dari najis.
+4. Mencatat hasil produksi secara rutin pada format Lampiran 13. Catatan Hasil Produksi.
+5. Perusahaan menyimpan dan memelihara bukti pelaksanaannya."
+2023-02-16 08:45:26,yunusmarsetio,"dari berbagai produk saya, produk apa saja yang perlu didaftarkan sertifikat halal?",Produk_SH,"Produk yang dapat diterbitkan sertifikat halal oleh MUI di antaranya produk pangan, obat-obatan, kosmetik, barang gunaan (bahan kimia, sabun, detergen, kulit, filter air, dsb), dll."
+2023-02-16 08:46:16,yunusmarsetio,untuk proses audit ini akan meminta catatan berapa lama yang lalu?,Audit_DataRiwayat,"Data yang akan di audit adalah data yang dikumpulkan selama 3 bulan.
+Namun untuk UMKM, bisa memberikan seminggu, dapat langsung di ajukan."
+2023-02-16 08:47:45,yunusmarsetio,jenis produk ini ada apa saja?,Produk_Jenis,"Jenis Produk diisi berdasarkan Jenis Produk yang dijual. Misalnya Makanan Ringan, Kosmetik, dan lain sebagainya. untuk penggolongan produk bisa dilihat disini https://drive.google.com/file/d/15xVx6dOy1pFMPiZa24bTHMI9QYC4gnoo/view?usp=sharing"
+2023-02-16 08:48:17,yunusmarsetio,Kaji Ulang Manajemen ini apa?,KajiUlangManajemen_Info,"Kaji Ulang Manajemen
+Evaluasi efektivitas pelaksanaan SJH oleh Manajemen Puncak
+1. Harus tersedia prosedur kaji ulang manajemen
+2. Harus dilakukan minimal 1 tahun sekali
+3. Pelaksanaan dapat diintegrasikan dengan sistem lain
+4. Bahan kaji ulang manajemen: hasil audit internal, audit eksternal, hasil kaji ulang sebelumnya, dan adanya perubahan dalam perusahaan yang mempengaruhi pelaksanaan SJH
+5. Hasil kaji ulang harus disampaikan kepada pihak yang bertanggung jawab implementasi SJH
+6. Bukti kaji ulang manajemen harus dipelihara. Contohnya: notulen dan daftar hadir kaji ulang."
+2023-02-16 08:48:33,yunusmarsetio,Yang bertanggung jawab mengisi Kaji Ulang Manajemen apakah saya?,KajiUlangManajemen_Info,"Kaji Ulang Manajemen
+Evaluasi efektivitas pelaksanaan SJH oleh Manajemen Puncak
+1. Harus tersedia prosedur kaji ulang manajemen
+2. Harus dilakukan minimal 1 tahun sekali
+3. Pelaksanaan dapat diintegrasikan dengan sistem lain
+4. Bahan kaji ulang manajemen: hasil audit internal, audit eksternal, hasil kaji ulang sebelumnya, dan adanya perubahan dalam perusahaan yang mempengaruhi pelaksanaan SJH
+5. Hasil kaji ulang harus disampaikan kepada pihak yang bertanggung jawab implementasi SJH
+6. Bukti kaji ulang manajemen harus dipelihara. Contohnya: notulen dan daftar hadir kaji ulang."
+2023-02-16 08:48:49,yunusmarsetio,Siapa yang bertanggung jawab mengisi Kaji Ulang Manajemen?,KajiUlangManajemen_Info,"Kaji Ulang Manajemen
+Evaluasi efektivitas pelaksanaan SJH oleh Manajemen Puncak
+1. Harus tersedia prosedur kaji ulang manajemen
+2. Harus dilakukan minimal 1 tahun sekali
+3. Pelaksanaan dapat diintegrasikan dengan sistem lain
+4. Bahan kaji ulang manajemen: hasil audit internal, audit eksternal, hasil kaji ulang sebelumnya, dan adanya perubahan dalam perusahaan yang mempengaruhi pelaksanaan SJH
+5. Hasil kaji ulang harus disampaikan kepada pihak yang bertanggung jawab implementasi SJH
+6. Bukti kaji ulang manajemen harus dipelihara. Contohnya: notulen dan daftar hadir kaji ulang."
+2023-02-16 08:49:54,yunusmarsetio,"Untuk pelatihan halal, apa saja ya yang harus di ikuti?",PelatihanHalal_Syarat,Perusahaan hanya dianjurkan mengikuti salah satu jenis pelatihan” untuk memenuhi persyaratan pelatihan eksternal ( diikuti minimal sekali dalam 2 tahun) sesuai dengan jenis usaha dan kebutuhan perusahaan untuk mengajukan sertifikasi halal atau menjadi seorang penyelia halal.
+2023-02-16 08:50:33,yunusmarsetio,Yang perlu ikut dalam pelatihan halal apakah semua karyawan? atau boleh diwakilkan?,PelatihanHalal_SiapaIkut,"Semua karyawan wajib pernah mengikuti pelatihan internal yang dilakukan oleh penyelia halal, dan harus terdokumentasikan"
+2023-02-16 08:51:34,yunusmarsetio,Kalau semisal bahan saya tidak jelas sertifikat halalnya bagiamana?,Bahan_TidakJelasHalal,"Untuk memastikan kehalalannya maka perlu menanyakan kepada pedagang seputar legalitas produksi bahan tersebut. Jika tidak ada, maka auditor akan mengaudit lokasi produksi bahan yang dibeli."
+2023-02-16 08:51:59,yunusmarsetio,apakah ada daftar bahan yang tidak memerlukan sertifikat halal?,Bahan_SelainDaftar,Maaf saya masih tidak yakin 28.02% dengan maksud anda dan mohon menggunakan bahasa Indonesia yang baku.
+2023-02-16 08:52:16,yunusmarsetio,bahan-bahan yang tidak wajib memiliki sertifikat halal,Bahan_TanpaSH,"Daftar Bahan yang dikecualikan dari Kewajiban Bersertifikat Halal dapat dilihat melalui:
+https://sehati.halal.go.id/docs/Infografis%20Sehati/Infografis%20Sehati/Daftar%20Bahan%20Dikecualikan%20Dari%20Kewajiban%20Bersertifikat%20Halal_Arini_compressed.pdf"
+2023-02-16 08:52:50,yunusmarsetio,Fasilitas Produksi ini termasuk apa saja?,Fasilitas_Info,"Fasilitas Produksi merupakan semua lini produksi dan peralatan pembantu yang digunakan untuk menghasilkan produk, baik milik sendiri atau menyewa.
+Mencakup bangunan, ruangan, mesin, peralatan utama, peralatan membantu sejak penyiapan bahan, proses utama, hingga penyimpanan produk."
+2023-02-16 08:53:53,yunusmarsetio,Maksudnya Kriteria Manajemen Halal yang sering dibahas ini apa ya?,SJPH_Info,Maaf saya masih tidak yakin 21.67% dengan maksud anda dan mohon menggunakan bahasa Indonesia yang baku.
+2023-02-16 08:54:04,yunusmarsetio,Kriteria Manajemen Halal ini artinya apa?,SJPH_Info,Maaf saya masih tidak yakin 21.66% dengan maksud anda dan mohon menggunakan bahasa Indonesia yang baku.
+2023-02-16 08:55:05,yunusmarsetio,Oh maksud saya Kriteria Jaminan Halal,SJPH_Info,"Sistem Jaminan Produk Halal (SJPH) merupakan dokumen sistem manajemen yang disusun, diterapkan dan dipelihara oleh pelaku usaha untuk menjaga kesinambungan proses produksi halal. Sistem Jaminan Produk Halal ini akan ditetapkan oleh BPJPH (Badan Penyelenggara Jaminan Produk Halal)."
+2023-02-16 08:55:23,yunusmarsetio,Maksudnya Kriteria Jaminan Halal yang sering dibahas ini apa ya?,SJPH_Info,"Sistem Jaminan Produk Halal (SJPH) merupakan dokumen sistem manajemen yang disusun, diterapkan dan dipelihara oleh pelaku usaha untuk menjaga kesinambungan proses produksi halal. Sistem Jaminan Produk Halal ini akan ditetapkan oleh BPJPH (Badan Penyelenggara Jaminan Produk Halal)."
+2023-02-16 08:56:03,yunusmarsetio,Aktivitas Kritis ini maksudnya apa?,AktivitasKritis_Info,"Aktivitas Kritis pada rantai proses produksi yang dapat mempengaruhi status kehalalan suatu produk contohnya:
+Seleksi bahan baru, pembelian bahan, pemeriksaan bahan datang, produksi, pencucian fasilitas produksi, penyimpanan dan penanganan, transportasi, pengembangan produk baru, pengembangan fasilitas baru, penyajian, aturan pengunjung, dan lain-lain."
+2023-02-16 08:56:35,yunusmarsetio,apa yang perlu diperhatikan selama seleksi bahan?,Bahan_SeleksiBaru,Maaf saya masih tidak yakin 13.25% dengan maksud anda dan mohon menggunakan bahasa Indonesia yang baku.
+2023-02-16 08:57:12,yunusmarsetio,pemeriksaan bahan datang harus dilakukan seperti apa?,Bahan_PemeriksaanDatang,"Proses Pemeriksaan Bahan Datang:
+1. Prosedur harus menjamin kesesuaian informasi antara dokumen bahan/Daftar Bahan Halal dengan label kemasan bahan.
+2. Pemeriksaan meliputi: nama bahan, nama produsen, negara produsen, logo halal (jika dipersyaratkan).
+3. Bahan tidak kritis tidak perlu diperiksa.
+4. Boleh dibuat kode internal atau daftar bahan khusus selama masih bsia tertelusur sesuai dengan Daftar bahan halal.
+5. Untuk bahan yang dikemas/dilabel ulang dan bahan yang tidak tercantum nama produsen di label kemasan -> cek produsen di CoA.
+
+Bukti harus disimpan dan dipelihara seperti surat jalan, COA, form pemeriksaan bahan datang."
+2023-02-16 08:57:32,yunusmarsetio,apakah ada aturan pencucian fasilitas?,Fasilitas_Pencucian,"Pencucian Fasilitas Produksi:
+1. Pencucian non air diperbolehkan jika:
+ a. Pencucian dengan air menyebabkan kerusakan fasilitas, produk atau kerusakan teknis lainnya.
+ b. Fasilitas terbuat dari bahan yang tidak menyerap najis (intert).
+2. Proses pencucian harus diverifikasi untuk membuktikan hilangnya warna dan bau dari pengotor -> Cara verifikasi dapat ditentukan sendiri oleh perusahaan, pastikan tidak mengkontaminasi.
+3. Bukti harus disimpan dan dipelihara, contoh: catatan proses pencucian, verifikasi hasil pencucian."
+2023-02-16 08:57:46,yunusmarsetio,kalau penyimpanan bahan bagaimana?,Bahan_Penyimpanan,"Proses Penyimpanan Bahan:
+1. Prosedur harus menjamin bahan tidak terkontaminasi oleh bahan haram/najis selama disimpan dan ditangani, termasuk peralatan dan personel gudang.
+2. Melingkupi gudang penyimpanan, gudang antara dan gudang bahan eksternal.
+3. Penyimpanan bahan kering dan tertutup dapat dilakukan bersama dengan bahan haram/najis selama tidak ada kontaminasi silang.
+Khusus penyimpanan daging dan olahan daging harus halal dedicated.
+
+Bukti harus disimpan dan dipelihara. Contoh: kartu stok bahan, form kebersihan gudang."
+2023-02-16 08:58:12,yunusmarsetio,kalau penyajian pengaruhnya dimana ya?,PPH_Penyajian,"Tempat Penyajian:
+Memisahkan tempat penyajian antara yang halal dan tidak halal meliputi:
+1. Sarana Penyajian Produk
+2. Proses Penyajian Produk
+
+Alat penyajian wajib memenuhi persyaratan:
+1. Tidak menggunakan alat penyajian secara bergantian dengan yang digunakan untuk penyajian produk tidak halal
+2. Menggunakan sarana yang berbeda untuk yang halal dan tidak halal dalam pembersihan alat
+3. Menggunakan sarana yang berbeda untuk yang halal dan tidak halal dalam pemeliharaan alat
+4. Memiliki tempat penyimpanan alat tersendiri untuk yang halal dan tidak halal"
+2023-02-16 08:58:36,yunusmarsetio,aturan pengunjung ini apa hubungannya dengan halal?,PelakuUsaha_Kontak,"Daftar Kontak:
+
+1. LPPOM MUI
+ Pertanyaan seputar Sertifikasi halal, Teknis aplikasi Cerol-SS23000, Pertanyaan/keluhan tentang sertifikasi halal ke LPPOM MUI.
+customercare@halalmui.org
++62 811-1148-696 (chat only)
+Call Center 14056
+www.halalmui.org
+
+2. LSP MUI
+ Pertanyaan seputar Uji kompetensi personil.
+info.halal@lspmui.org
+www.lspmui.org
++62 251 8380858 / +62 811-1939-295
+
+3. BPJPH
+ Pertanyaan seputar Pendaftaran sertifikasi halal ke BPJPH, Pertanyaan/keluhan tentang sertifikasi halal ke BPJPH.
+sertifikasihalal@kemenag.go.id
++62 811-1171-019
+www.halal.go.id
+
+4. IHATEC
+ Pertanyaan seputar Pelatihan Penyelia halal, Pelatihan auditor halal.
+info@ihatec.com
++62 811-1145-060
+www.ihatec.com"
+2023-02-16 08:59:22,yunusmarsetio,Mengapa aktivitas pengunjung perlu diperhatikan?,AktivitasKritis_Info,"Aktivitas Kritis pada rantai proses produksi yang dapat mempengaruhi status kehalalan suatu produk contohnya:
+Seleksi bahan baru, pembelian bahan, pemeriksaan bahan datang, produksi, pencucian fasilitas produksi, penyimpanan dan penanganan, transportasi, pengembangan produk baru, pengembangan fasilitas baru, penyajian, aturan pengunjung, dan lain-lain."
+2023-02-16 08:59:41,yunusmarsetio,Aturan pengunjung,PPH_Pengemasan,"Tempat Pengemasan:
+Memisahkan tempat pengemasan antara yang halal dan tidak halal meliputi:
+1. Bahan kemasan yang digunakan untuk mengemas produk
+2. Sarana pengemasan produk"
+2023-02-16 09:00:35,yunusmarsetio,BPJPH ini apa ya?,Istilah_BPJPH,"BPJPH (Badan Penyelenggara Jaminan Produk Halal)
+Badan dibawah Kementrian Agama yang bertugas dalam proses sertifikasi dan jaminan produk halal."
+2023-02-16 09:01:12,yunusmarsetio,Karyawan yang bertanggung jawab terhadap bahan ini apakah bisa ditunjuk bebas?,Bahan_PenanggungJawab,Maaf saya masih tidak yakin 15.39% dengan maksud anda dan mohon menggunakan bahasa Indonesia yang baku.
+2023-02-16 09:01:26,yunusmarsetio,Penanggung jawab bahan ini bisa di tentukan bagaimana?,Bahan_PenanggungJawab,Maaf saya masih tidak yakin 27.22% dengan maksud anda dan mohon menggunakan bahasa Indonesia yang baku.
+2023-02-16 09:01:37,yunusmarsetio,Penanggung jawab bahan,Bahan_PenanggungJawab,Perusahaan dapat menunjuk seorang pegawai (bagian gudang) yang dapat bertugas untuk menjamin kehalalan dari bahan baku
+2023-02-16 09:03:04,yunusmarsetio,Saya ada diminta membuat narasi PPH ini apa ya? Bagaimana standar aturannya?,PPH_Narasi,"Contoh Narasi
+
+Cara Pembuatan:
+1. Pengolahan Sate Bandeng dimulai dengan penyayatan dan pembersihan ikan bandeng, kemudian tulang dan daging ikan dipisahkan.
+2. Daging ikan dibersihkan dengan air bersih, daging yang telah dibersihkan kemudian digiling.
+3. Ditempat terpisah campurkan bawang merah, bawang putih, cabe, jahe, lengkuas, kemiri, ketumbar, lada dan telur, giling / tumbuk halus
+4. Daging ikan yang sudah digiling dicampurkan dengan bumbu – bumbu yang sudah dimasak matang sampai merata
+5. Masukkan kembali daging ikan yang sudah dibumbui ke dalam kulit ikan, kemudian bungkus dengan daun pisang
+6. Daging ikan yang sudah dibungkus daun pisang dikukus dengan menggunakan alat pengukus sampai matang, kemudian dipanggang dengan alat pemanggangan
+7. Keluarkan ikan yang sudah dipanggang dari daun pisang lalu masukkan ke dalam kemasan
+8. Simpan dalam alat pendingin
+9. Produk siap untuk dipasarkan"
+2023-02-16 09:03:35,yunusmarsetio,Pendamping PPH ini siapa?,PPH_AsalPendamping,"Yang bisa melakkan Pendampingan PPH beserta Syaratnya:
+1. Ormas & Lembaga Keagamaan Islam
+        a. Telah berdiri minimal 10 tahun
+        b. Memiliki minimal 5 orang ahli agama yang memahami syariat kehalalan Produk
+        c. Memiliki unit yang menangani Pendampingan PPH
+2. PTN/PTS
+        a. Terakreditasi
+        b. Menyiapkan tenaga ahli yang memiliki kompetensi yang revelan dengan tugas Pendampingan PPH
+        c. Memiliki unit yang menangani Pendampingan PPH
+3. Instansi pemerintah atau Badan Usaha
+        a. Sepanjang bermitra dengan Ormas, Lembaga keagamaan Islam berbadan hukum dan Perguruan Tinggi"
+2023-02-16 09:04:17,yunusmarsetio,Apakah ada ya produk yang tidak diperbolehkan untuk menerima sertifikat halal?,Produk_KetentuanHalal,"Ketentuan Produk yang Tidak Dapat Diajukan Sertifikasi Halalnya:
+1. Nama produk yang mengandung nama minuman keras, contoh rootbeer, es krim rasa rhum raisin, bir 0% alkohol
+2. Nama produk yang mengandung nama babi dan anjing serta turunannya, seperti babi panggang, babi goreng, beef bacon, hamburger, hotdog
+3. Nama produk yang mengandung nama setan seperti rawon setan, es pocong, mi ayam kuntilanak
+4. Nama produk yang mengarah kepada hal-hal yang menimbulkan kekufuran dan kebatilan, atau ritual/perayaan yang tidak sesuai dengan syariat Islam
+5. Nama produk yang mengandung kata-kata yang mengandung unsur pornografi.
+6. Produk dengan karakteristik/profil sensori yang memiliki kecenderungan bau atau rasa yang mengarah kepada produk haram atau yang telah dinyatakan haram berdasarkan ketetapan fatwa.
+7. Produk atau bahan tidak aman untuk dikonsumsi."
+2023-02-16 09:04:59,yunusmarsetio,Produk yang saya jual ini hanya saya ganti kemasannya. Kalau begitu bagaimana?,Produk_Repack,"Produk yang dikemas ulang atau diberi label ulang dapat disertifikasi dengan syarat:
+1. Produk berSertifikat Halal MUI.
+2. Produk kategori tidak kritis.
+Jika diluar kondisi di atas, maka dapat disertifikasi bersamaan dengan produk asalnya."
+2023-02-16 09:05:28,yunusmarsetio,Apakah semua produk bisa didaftarkan sertifikat halal?,Produk_SH,"Produk yang dapat diterbitkan sertifikat halal oleh MUI di antaranya produk pangan, obat-obatan, kosmetik, barang gunaan (bahan kimia, sabun, detergen, kulit, filter air, dsb), dll."
+2023-02-16 09:05:58,yunusmarsetio,SJPH ini apa sebenarnya?,SJPH_Info,"Sistem Jaminan Produk Halal (SJPH) merupakan dokumen sistem manajemen yang disusun, diterapkan dan dipelihara oleh pelaku usaha untuk menjaga kesinambungan proses produksi halal. Sistem Jaminan Produk Halal ini akan ditetapkan oleh BPJPH (Badan Penyelenggara Jaminan Produk Halal)."
+2023-02-16 09:06:24,yunusmarsetio,Untuk mengisi nama sjph ini bagaimana?,SJPH_Nama,"SJPH akan diperbarui setiap 4 tahun. Untuk memudahkan, dapat diberikan nama seperti ""SJPH Tahun 2022"""
+2023-02-16 09:06:47,yunusmarsetio,Nomo Izin edar ini bisa saya dapat darimana?,SJPH_IzinEdar,"Melakukan registrasi online melalui situs resmi BPOM, https://ereg-rba.pom.go.id/"
+2023-02-16 09:07:12,yunusmarsetio,apakah semua produk pasti ada nomor izin edar?,SJPH_IzinEdar,"Melakukan registrasi online melalui situs resmi BPOM, https://ereg-rba.pom.go.id/"
+2023-02-16 09:08:11,yunusmarsetio,Kira-kira pendaftaran sjph ini berapa lama?,SH_DurasiDaftar,"Lead Time Proses Sertifikasi Halal Khusus perusahaan dalam negeri (DN):
+1. Upload Complete (20 hari)
+2. Pre Audit (15 hari)
+3. Audit (15 hari)
+4. Komfat (25 hari)
+5. Terbit SH
+Total -> 75 Hari
+
+Dengan syarat:
+1. Pre Audit tidak ada kelemahan, jika ada maka perbaikan maksimal 7 hari.
+2. Melakukan pembayaran akad maksimal 7 hari.
+3. Audit tidak ada kelemahan, jika ada maka perbaikan maksimal 7 hari.
+4. Konfirmasi tanggal audit maksimal 5 hari dan maksimal 10 hari dilakukan audit setelah konfirmasi jadwal.
+5. Jumlah fasilitas yang diaudit hanya 1 atau jika ingin lebih dari 1 maka diaudit pada hari yang sama."
+2023-02-16 09:08:39,yunusmarsetio,apakah sjph ini ada masa berlaku?,SJPH_MasaBerlaku,"Sertifikat halal memiliki masa berlaku selama 4(empat) tahun sejak diterbitkan oleh BPJPH, terkecuali jika terdapat perubahan komposisi bahan. Sertifikat halal wajib diperpanjang oleh pelaku usaha dengan mengajukan pembaruan sertifikat halal paling lambat 3 (tiga) bulan sebelum masa berlaku sertifikat halal berakhir."
+2023-02-16 09:08:54,yunusmarsetio,kalau sudah 4 tahun ini apakah sjph perlu diperpanjang,SJPH_MasaBerlaku,Maaf saya masih tidak yakin 28.20% dengan maksud anda dan mohon menggunakan bahasa Indonesia yang baku.
+2023-02-16 09:09:05,yunusmarsetio,Perpanjangan SJPH,SJPH_MasaBerlaku,"Sertifikat halal memiliki masa berlaku selama 4(empat) tahun sejak diterbitkan oleh BPJPH, terkecuali jika terdapat perubahan komposisi bahan. Sertifikat halal wajib diperpanjang oleh pelaku usaha dengan mengajukan pembaruan sertifikat halal paling lambat 3 (tiga) bulan sebelum masa berlaku sertifikat halal berakhir."
+2023-02-16 09:09:21,yunusmarsetio,Cara memperpanjang SJPH bagaimana?,SJPH_MasaBerlaku,"Sertifikat halal memiliki masa berlaku selama 4(empat) tahun sejak diterbitkan oleh BPJPH, terkecuali jika terdapat perubahan komposisi bahan. Sertifikat halal wajib diperpanjang oleh pelaku usaha dengan mengajukan pembaruan sertifikat halal paling lambat 3 (tiga) bulan sebelum masa berlaku sertifikat halal berakhir."
+2023-02-16 09:09:58,yunusmarsetio,Sertifikat halal ini proses perpanjangnya caranya bagaimana?,SH_CaraPerpanjang,"Prosedur Perpanjangan Masa Berlaku Sertifikat Halal:
+1. Masuk aplikasi CEROL
+2. Melakukan registrasi
+Melakukan registrasi berupa registrasi Renew. Untuk melanjutkan perpanjangan.
+3. Membayar biaya registrasi
+Biaya registrasi yang harus dibayar oleh setiap pelaku usaha sebesar dua ratus ribu rupiah. Setelah melakukan pembayaran biaya registrasi, kemudian bukti pembayaran harus dikirimkan melalui menu.
+4. Mengunggah data yang diperlukan
+Pelaku usaha yang melakukan perpanjangan sertifikat halal harus mengunggah data-data yang diperlukan mengenai sertifikat halal. Namun tidak perlu khawatir untuk mengumpulkan kembali data-data tersebut, karena biasanya data tersebut sudah ada sewaktu anda mengajukan sertifikasi halal dahulu. Anda cukup mengecek ulang kelengkapan data tersebut dan jika terdapat penambahan data anda dapat mengunggahnya di menu yang disediakan. Setelah itu anda hanya tinggal menunggu prosesnya kemudian sertifikat halal anda sudah diperpanjang."
+2023-02-16 09:10:57,yunusmarsetio,Pemantauan dan Evaluasi itu maksud dan tujuannya apa?,SJPH_PemantauanEvaluasi,Pemantauan dan evaluasi diisi dengan mengadakan pelatihan di dalam usaha. Pelatihan ini nanti akan di uji dan dievaluasi oleh penguji yang akan menguji melalui soal yang telah dibuat oleh usaha
+2023-02-16 09:12:16,yunusmarsetio,Cara menilai kompetensi penyelia halal bagaimana?,Sertifikat_PenyeliaAuditor,"​Uji kompetensi penyelia halal dilakukan dalam rangka memastikan kompetensi Penyelia Halal, dengan ini Lembaga Sertifikasi Profesi (LSP)MUI yang merupakan satu-satunya pemegang lisensi sertifikasi kompetensi bidang penjaminan produk halal dari Badan Nasional Sertifikasi Profesi (BSNP) siap melakukan Sertifikasi Kompetensi terhadap Bapak & Ibu Penyelia Halal atau Auditor Halal. Penyelia Halal atau Auditor Halal yang dinyatakan kompeten akan terdaftar di Badan Nasional Sertifikasi Kompetensi dan memperoleh SERTIFIKAT KOMPETENSI yang diakui oleh negara. Dalam hal ini sertifikat uji kompetensi bersifat personal (bukan milik perusahaan)."
+2023-02-16 09:12:42,yunusmarsetio,Lalu untuk auditor itu apa?,Sertifikat_PenyeliaAuditor,"​Uji kompetensi penyelia halal dilakukan dalam rangka memastikan kompetensi Penyelia Halal, dengan ini Lembaga Sertifikasi Profesi (LSP)MUI yang merupakan satu-satunya pemegang lisensi sertifikasi kompetensi bidang penjaminan produk halal dari Badan Nasional Sertifikasi Profesi (BSNP) siap melakukan Sertifikasi Kompetensi terhadap Bapak & Ibu Penyelia Halal atau Auditor Halal. Penyelia Halal atau Auditor Halal yang dinyatakan kompeten akan terdaftar di Badan Nasional Sertifikasi Kompetensi dan memperoleh SERTIFIKAT KOMPETENSI yang diakui oleh negara. Dalam hal ini sertifikat uji kompetensi bersifat personal (bukan milik perusahaan)."
+2023-02-16 09:13:37,yunusmarsetio,Apakah proses audit ini bayar?,Audit_Bayar,"Audit dapat dilakukan jika ketentuan berikut terpenuhi:
+1. Biaya akad telah dilunasi.
+2. Registrasi telah PassPreAudit."
+2023-02-16 09:14:16,yunusmarsetio,Macam-macam audit itu ada apa saja? Apakah saya bisa memilih?,Audit_Jenis,"Jenis Audit:
+1. Ondesk
+Tidak memerlukan pendampingan klien, lingkup kriteria bahan dan produk.
+2. Onsite
+Dilakukan di fasilitas atau lokasi klien, melingkupi 11 kriteria SJH.
+Saat audit, produksi sedang berlangsung atau menunjukkan produksi lain yang serupa baik proses maupun fasilitas.
+3. Onsite Open Formula
+Memerlukan pendampingan klien yang menunjukkan formula langsung kepada auditor, lingkup kriteria bahan dan produk.
+
+Catatan: Selama wabah COVID 19, ada Modifikasi Onsite Audit (MOSA), verifikasi langsung ke pabrik digantikan dengan Video Conference."
+2023-02-16 09:15:24,yunusmarsetio,Kalau semisal saya ada kelupaan lapor untuk perubahan bahan begitu. Bagaimana?,Produk_Ubah,"Bila terjadi kesalahan penulisan atau perubahan informasi (bukan penambahan), maka dapat mengajukan surat permohonan revisi maksimal 1 tahun dari tanggal terbit Sertifikat Halal ke LPPOM MUI.
+Dengan melampirkan Data:
+1. Bukti legal -> revisi nama/alamat perusahaan atau nama pabrik
+2. Bukti tidak ada perubahan bahan & formula -> Revisi Nama produk/menu
+
+Untuk permohonan revisi akan dikenakan biaya, kecuali jika kesalahan LPPOM MUI."

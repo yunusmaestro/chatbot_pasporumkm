@@ -23,7 +23,7 @@ async def predict_response(nama_model, sentences):
     tf_idf = pickle.load(open("word_embedding/"+nama_model+".pkl", 'rb'))
     X_test_vecs = tf_idf.transform([sentences]).todense().tolist()
 
-    intent_classifier = pickle.load(open("intent_classification_model/"+nama_model+".pkl", 'rb'))
+    intent_classifier = pickle.load(open("intent_classification_model/"+nama_model+"_mlp.pkl", 'rb'))
     intent_predict = intent_classifier.predict(X_test_vecs)
     intent_predict = intent_predict[0]
 
