@@ -50,6 +50,18 @@ async def get_response(data):
 
     sentences = data["sentences"]
 
+    # Spell Checker
+    import string
+    # convert lowercase
+    sentences = sentences.lower()
+    # remove punctuation
+    exclude = set(string.punctuation)
+    sentences = ''.join(ch for ch in sentences if ch not in exclude)
+
+    import norvig_spellchecker
+    vocab = pickle.load(open("dataset/vocab.pkl", 'rb'))
+    sentences = norvig_spellchecker.spell_check(sentences, vocab)
+
     # stemming
     sentences = StemmerFactory().create_stemmer().stem(sentences)
 
