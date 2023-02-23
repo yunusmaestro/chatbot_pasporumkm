@@ -68,7 +68,7 @@ async def get_response(data):
     response, conf_score, intents = await predict_response("root", sentences)
 
     if conf_score > 0.3:
-        with open(log_filename, 'a', newline='') as file:
+        with open(log_filename, 'a', newline='', encoding='utf-8') as file:
             writer = csv.writer(file)
             rows = [
                 [
@@ -90,7 +90,7 @@ async def get_response(data):
         return jsonify(json_data), 201
     else:
         response = "Maaf saya masih tidak yakin " + "{:.2%}".format(conf_score) + " dengan maksud anda dan mohon menggunakan bahasa Indonesia yang baku."
-        with open(log_filename, 'a', newline='') as file:
+        with open(log_filename, 'a', newline='', encoding='utf-8') as file:
             writer = csv.writer(file)
             rows = [
                 [
@@ -116,7 +116,7 @@ async def print_sentences():
     # Mengecek apakah file CSV sudah ada
     file_exists = os.path.isfile(log_filename)
     if not file_exists:
-        with open(log_filename, 'a', newline='') as file:
+        with open(log_filename, 'a', newline='', encoding='utf-8') as file:
             writer = csv.writer(file)
             # Baris header pada file CSV
             header = ["Timestamp", "Username", "Question", "Intent", "Response"]
@@ -129,7 +129,7 @@ async def print_sentences():
 
     intents = "-"
     response = "Maaf saya belum mengerti maksud anda dan mohon menggunakan bahasa Indonesia yang baku."
-    with open(log_filename, 'a', newline='') as file:
+    with open(log_filename, 'a', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
         rows = [
             [
