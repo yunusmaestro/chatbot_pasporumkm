@@ -20,6 +20,8 @@ app = Flask(__name__)
 CORS(app)
 
 async def predict_response(nama_model, sentences):
+    print("Model = ", nama_model)
+
     tf_idf = pickle.load(open("word_embedding/"+nama_model+".pkl", 'rb'))
     X_test_vecs = tf_idf.transform([sentences]).todense().tolist()
 
@@ -51,19 +53,17 @@ async def get_response(data):
     sentences = data["sentences"]
 
     # Spell Checker
-    import string
-    # convert lowercase
-    sentences = sentences.lower()
-    # remove punctuation
-    exclude = set(string.punctuation)
-    sentences = ''.join(ch for ch in sentences if ch not in exclude)
+    sentences = StemmerFactory().create_stemmer().stem(sentences)
+    print("Before Spell Check = ", sentences)
 
-    import norvig_spellchecker
-    vocab = pickle.load(open("dataset/vocab.pkl", 'rb'))
-    sentences = norvig_spellchecker.spell_check(sentences, vocab)
+    # import norvig_spellchecker
+    # vocab = pickle.load(open("dataset/vocab.pkl", 'rb'))
+    # checked_word = norvig_spellchecker.spell_check(word, vocab)
+    print("After Spell Check = ", sentences)
 
     # stemming
     sentences = StemmerFactory().create_stemmer().stem(sentences)
+    print("After Stemming = ", sentences)
 
     response, conf_score, intents = await predict_response("root", sentences)
 
