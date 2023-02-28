@@ -52,15 +52,6 @@ async def get_response(data):
 
     sentences = data["sentences"]
 
-    # Spell Checker
-    sentences = StemmerFactory().create_stemmer().stem(sentences)
-    print("Before Spell Check = ", sentences)
-
-    # import norvig_spellchecker
-    # vocab = pickle.load(open("dataset/vocab.pkl", 'rb'))
-    # checked_word = norvig_spellchecker.spell_check(word, vocab)
-    print("After Spell Check = ", sentences)
-
     # stemming
     sentences = StemmerFactory().create_stemmer().stem(sentences)
     print("After Stemming = ", sentences)
@@ -89,7 +80,7 @@ async def get_response(data):
         }
         return jsonify(json_data), 201
     else:
-        response = "Maaf saya masih tidak yakin " + "{:.2%}".format(conf_score) + " dengan maksud anda dan mohon menggunakan bahasa Indonesia yang baku."
+        response = "Maaf saya masih tidak yakin dengan maksud anda dan mohon menggunakan bahasa Indonesia yang baku."
         with open(log_filename, 'a', newline='', encoding='utf-8') as file:
             writer = csv.writer(file)
             rows = [
@@ -126,22 +117,6 @@ async def print_sentences():
         data = request.get_json()
         response = await get_response(data)
         return response
-
-    intents = "-"
-    response = "Maaf saya belum mengerti maksud anda dan mohon menggunakan bahasa Indonesia yang baku."
-    with open(log_filename, 'a', newline='', encoding='utf-8') as file:
-        writer = csv.writer(file)
-        rows = [
-            [
-                datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-                data["username"],
-                data["sentences"],
-                intents,
-                response
-            ]
-        ]
-        writer.writerows(rows)
-    print("Save Log Chat")
 
     json_data = {
         "success": 0,
